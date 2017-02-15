@@ -1,5 +1,7 @@
 # Pesticide
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chrisopedia/pesticide.svg)](https://greenkeeper.io/)
+
 Kill your CSS layout bugs.  *Without* 2000 clicks in Chrome Dev Tools.
 
 ## WTF is this?
